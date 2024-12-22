@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Docker Desktop
+* [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop)
 
 ## Usage
 
